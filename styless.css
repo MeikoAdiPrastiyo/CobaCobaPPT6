@@ -1,0 +1,11 @@
+p {
+    font-family: Arial, sans-serif;
+    margin: 8px 0;
+}
+p.indent {
+    margin-left: 20px;
+    margin-top: 0;
+}
+body {
+    font-size: 2rem;
+}
